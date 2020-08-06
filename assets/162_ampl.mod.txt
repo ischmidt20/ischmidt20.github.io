@@ -1,0 +1,92 @@
+## File project.mod
+
+#Load parameters from .dat file
+param supply{i in 1..8};
+param sugar_cost{i in 1..8};
+param to_charleston{i in 1..8};
+param to_atlanta{i in 1..8};
+param transit_return;
+
+param molasses_production{i in 1..2};
+param sugar_production{i in 1..2};
+param bagasse_production{i in 1..2};
+
+param operating_costs_variable{i in 1..2};
+param operating_costs_flat{i in 1..2};
+param capacity{i in 1..2};
+
+param sugar_profit{i in 1..2};
+param molasses_profit;
+param bagasse_profit;
+
+param from_charleston{i in 1..7};
+param from_atlanta{i in 1..7};
+param demand{i in 1..7};
+
+#amount of sugar bought from each plant and sent to each refinery
+var raw_sugar{i in 1..8, j in 1..2} >= 0;
+
+#Amount of molasses to produce in each refinery
+#var molasses{i in 1..2} >= 0;
+
+#Amount of refined sugar to produce in each refinery
+#var sugar{i in 1..2} >= 0;
+
+#Amount of bagasse to produce in each refinery
+#var bagasse{i in 1..2} >= 0;
+
+#Amount of molasses shipped from each plant to each customer
+var sold_molasses{i in 1..2, j in 1..7} >= 0;
+
+maximize profit:
+
+#profit from selling sugar to market
+sum{i in 1..2} sugar_profit[i]*(transit_return*sugar_production[i]*(sum{j in 1..8} raw_sugar[j,i]))
+
+#profit from selling molasses to customers 6 and 7 and to market
++ molasses_profit*(sum{i in 1..2} transit_return*molasses_production[i]*(sum{j in 1..8} raw_sugar[j,i])) - molasses_profit*(sum{i in 1..2, j in 1..5} sold_molasses[i,j])
+
+#profit from selling bagasse to market
++ bagasse_profit*(sum{j in 1..2} transit_return*(1-molasses_production[j]-sugar_production[j])*(sum{i in 1..8} raw_sugar[i,j]))
+
+#cost of buying raw sugar
+- sum{i in 1..8, j in 1..2} sugar_cost[i]*raw_sugar[i,j]
+
+#cost of shipping raw sugar to refineries
+- sum{i in 1..8} to_charleston[i]*raw_sugar[i,1]
+- sum{i in 1..8} to_atlanta[i]*raw_sugar[i,2]
+
+#variable cost of operating refineries
+- sum{i in 1..8, j in 1..2} operating_costs_variable[j]*transit_return*raw_sugar[i,j]
+
+#fixed cost of operating refineries
+- sum{i in 1..2} operating_costs_flat[i]
+
+#cost of shipping molasses to customers
+- sum{j in 1..7} from_charleston[j]*sold_molasses[1,j]
+- sum{j in 1..7} from_atlanta[j]*sold_molasses[2,j];
+
+subject to
+
+#We can only buy so much sugar from each supplier
+sugar_supply_con {i in 1..8}: sum{j in 1..2} raw_sugar[i,j] <= supply[i];
+
+#Each refinery must operate between 50% and 100% capacity
+maximum_capacity {j in 1..2}: transit_return*(sum{i in 1..8} raw_sugar[i,j]) <= capacity[j];
+minimum_capacity {j in 1..2}: transit_return*(sum{i in 1..8} raw_sugar[i,j]) >= .5*capacity[j];
+
+#Charleston can only produce 2250000 pounds of purified sugar
+charleston_sugar_con: transit_return*sugar_production[1]*(sum{j in 1..8} raw_sugar[j,1]) <= 2250;
+
+#We produce certain amounts of sugar, molasses depending on how much raw sugar we get
+#molasses_con {j in 1..2}: molasses[j] = transit_return*molasses_production[j]*(sum{i in 1..8} raw_sugar[i,j]);
+#sugar_con {j in 1..2}: sugar[j] = transit_return*sugar_production[j]*(sum{i in 1..8} raw_sugar[i,j]);
+
+#Whatever we don't use for sugar or molasses, we use for bagasse
+#bagasse_con {j in 1..2}: bagasse[j] = transit_return*(sum{i in 1..8} raw_sugar[i,j]) - molasses[j] - sugar[j];
+
+#We must meet all demand for molasses from our customers
+molasses_demand_con {j in 1..7}: sum{i in 1..2} sold_molasses[i,j] >= demand[j];
+
+#We only have so much molasses at each refinery to ship out
+total_molasses_con {k in 1..2}: sum{j in 1..7} sold_molasses[k,j] <= transit_return*molasses_production[k]*(sum{i in 1..8} raw_sugar[i,k]);
