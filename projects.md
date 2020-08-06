@@ -1,7 +1,7 @@
 ---
 ---
 
-Below are a collection of some of my favorite projects I have worked on. They may be born out of research, class assignments, formal extracurriculars, or pure personal interest. In some cases I haven't posted the actual work, because others contributed to it and I have not received their permission to share.
+Below are a collection of some of my favorite projects I have worked on. They may be born out of research, class assignments, formal extracurriculars, or pure personal interest.
 
 # City Planning x Data Science
 
@@ -13,12 +13,12 @@ Senate Bill 1120, at the time of this writing, is proposed legislation in Califo
 ### **Bike Lanes and Displacement**
 - **Co-Authors**: Khoa Đỗ, Rowan Pan
 
-For a class assignment, my group and I looked at the relationship between the existence of bike lanes and urban displacement, as measured by the [Urban Displacement Project](https://www.urbandisplacement.org/). I collected bike lane shapefiles from various city open data portals, which I then used to calculate the total length of bike lanes per census tract. My groupmates then used that information to look at potential associations with the typologies created by UDP. We then put everything in an interactive blog post, which you can read [here](https://www.ocf.berkeley.edu/~ischmidt/2020/cp-101-assignment-3/).
+For a class assignment, my group and I looked at the relationship between the existence of bike lanes and urban displacement, as measured by the [Urban Displacement Project](https://www.urbandisplacement.org/). I collected bike lane shapefiles from various city open data portals, which I then used to calculate the total length of bike lanes per census tract. My groupmates then used that information to look at potential associations with the typologies created by UDP. We then structured our results as a blog post, which you can read [here](https://www.ocf.berkeley.edu/~ischmidt/2020/cp-101-assignment-3/).
 
 ### **BART and Accessibility**
 - **Co-Author**: Rowan Pan
 
-For another assignment, my partner and I investigated factors affecting accessibility to BART, particularly looking at the location of the Warm Springs and Fremont stations. I built my own network based on a county street centerlines shapefile, which I used to calculate distance and walking times to BART for various locations. We also used data from the American Community Survey to try to determine the makeup of the neihborhoods these stations serve. Read our report [here](https://www.ocf.berkeley.edu/~ischmidt/2020/cp-101-assignment-2/)!
+For another assignment, my partner and I investigated factors affecting accessibility to BART, particularly looking at the location of the Warm Springs and Fremont stations. I built my own network based on a county street centerlines shapefile, which I used to calculate distance and walking times to BART for various locations. We also used data from the American Community Survey to try to determine the makeup of the neighborhoods these stations serve. Read our report [here](https://www.ocf.berkeley.edu/~ischmidt/2020/cp-101-assignment-2/)!
 
 # Sports
 
@@ -40,7 +40,7 @@ The first project I worked on with SAGB was a consulting project with the Golden
 
 ### **Soccer Highlights**
 
-Of course highlights are popular in any sport, but even moreso in soccer. The time zone differences and the sheer quantity of matches lead to a large market for extended highlights, where full matches are condensed down to 10-15 minutes. Creating these highlight packages takes a long time—you have to have watched the match, pinpointed the worthy moments, before manually slicing your match recording into the different clips and smashing them all back together. To make life easier, I wrote a Python script that automatically creates highlights videos using match events from the [hidden ESPN API](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b). See one of the resulting videos [here](https://streamable.com/ck02rs)!
+Of course highlights are popular in any sport, but even moreso in soccer. The time zone differences and the sheer quantity of matches lead to a large market for extended highlights, where full matches are condensed down to 10-15 minutes. Creating these highlight packages takes a long time—you have to have watched the match, pinpointed the worthy moments, and then manually sliced your match recording into the different clips and smashed them all back together. To make life easier, I wrote a Python script that automatically creates highlights videos using match events from the [hidden ESPN API](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b). See one of the resulting videos [here](https://streamable.com/ck02rs)!
 
 # Modelling
 
@@ -58,14 +58,14 @@ In Fall 2019, I took a class on Geographic Information Systems (GIS). For a fina
 
 ### **BART and Housing Prices**
 
-Freshman year, I took a class in the geography department simply titled "California." For a new resident, it was a nice primer on CA history, but for our final project, we had to make a [map](assets/50ac.pdf). Being the public transit fan that I am, I chose to look at BART and its relationship with housing prices. I plotted BART stations as points alongside block group polygons joined with American Community Survey data. This was the first map I ever finished, and I'm quite proud of it. My TA didn't like that I didn't label the stations and thought that the system map in the top-left corner was intended to fill space, so I assume she'd rather see text covering all of San Francisco and a big empty Marin Peninsula. This map is not even 3 years old, but note how out-of-date it already is! Thank you BART!
+Freshman year, I took a class in the geography department simply titled "California." For a new resident, it was a nice primer on CA history, but for our final project, we had to make a [map](assets/50ac.pdf). Being the public transit fan that I am, I chose to look at BART and its relationship with housing prices. I plotted BART stations as points alongside block group polygons joined with American Community Survey data. This was the first map I ever finished, and I'm quite proud of it. My TA didn't like that I didn't label the stations and thought that the system map in the top-left corner was intended to fill space, so I assume she'd rather see text covering all of San Francisco and a big empty Marin Peninsula. This map is less than 3 years old, but note how out-of-date it already is! Thank you BART!
 
 # Linear Programming
 
 ### **Supply Chain Management**
 - **Co-Authors**: Yulie Park, Christian Simeon, Yifan Xia
 
-For our final project in a linear programming class, we were told to optimize the supply chain for a fictional sugar cane company. Sugar cane was bought from different plantations and shipped to different refineries, who in turn shipped molasses to different customers. There were a number of parameters in our model, including the different shipping costs from location to location, the varying productivities and capacities of the different refineries, and maximum supply and minimum demand. Our decision variables were the amount of sugar cane to buy from each supplier and where to ship it, and how much molasses to ship from each refinery to each customer I wrote the [AMPL code](assets/162_ampl.mod.txt) to formulate and solve the model, and drew up a nice [diagram](assets/162_graph.png) displaying our optimal results.
+For our final project in a linear programming class, we were told to optimize the supply chain for a fictional sugar cane company. Sugar cane was bought from different plantations and shipped to different refineries, who in turn shipped molasses to different customers. There were a number of parameters in our model, including the different shipping costs from location to location, the varying productivities and capacities of the different refineries, and maximum supply and minimum demand. Our decision variables were the amount of sugar cane to buy from each supplier and where to ship it, and how much molasses to ship from each refinery to each customer. I wrote the [AMPL code](assets/162_ampl.mod.txt) to formulate and solve the model, and drew up a nice [diagram](assets/162_graph.png) displaying our optimal results.
 
 ### **Circles of Suck**
 
@@ -73,15 +73,27 @@ Team A beats Team B, then Team B beats Team C. The transitive property suggests 
 
 ### **Problems I'm Interested In, But Haven't Solved**
 
-- **[Pocket Trains](https://apps.apple.com/us/app/pocket-trains/id635931971)** is a mobile game where players operate their own railroad service. There is a select set of cities, and select tracks between them. Players build tracks, then assign them to different railroad lines. There is a fuel cost to traversing a track based on its length, and then a coin reward for delivering cars from one city to another, based on the Euclidean distance between them. We can consider the map to be a graph where the nodes are the cities, and the edges the tracks. The objective is to assign each track to a line such that the overall "straightness" of the system is maximized, with additional constraints on the length of each line and that there be no branches.
+- **[Pocket Trains](https://apps.apple.com/us/app/pocket-trains/id635931971)** is a mobile game where players operate their own railroad service. There is a select set of cities, and select tracks between them. Players build tracks, then assign them to different railroad lines. There is a fuel cost to traversing a track based on its length, and then a coin reward for delivering cars from one city to another, based on the Euclidean distance between them. We can consider the map to be a graph where the nodes are the cities, and the edges the tracks. The objective is to assign each track to a line such that the overall "straightness" of the system is maximized, with additional constraints on the composition of each line.
 
-- How to solve the **Travelling Salesman Problem** when the salesman uses public transit, and we want to minimze time? Specifically, given the Amtrak rail system in the United States, how can we find the optimal tour to visit a select set of stations? Additionally, what if the salesman is a baseball fan, and wants to see a game at all 30 ballparks? Clearly, this is even harder then the standard TSP, because the costs of travelling between cities varies depending on the previous steps the salesman has taken. Introducing the scheduling constraints adds a whole new layer of complexity, because now our salesman needs to stop in a city and stay to watch a game. Interested in thoughts on this!
+- How to solve the **Travelling Salesman Problem** when the salesman uses public transit, and we want to minimze time? Specifically, given the Amtrak rail system in the United States, how can we find the optimal tour that visits a select set of stations? Additionally, what if the salesman is a baseball fan, and wants to see a game at all 30 ballparks? Clearly, this is even harder then the standard TSP, because the costs of travelling between cities varies depending on the previous steps the salesman has taken. Introducing the scheduling constraints adds a whole new layer of complexity, because now our salesman needs to stop in a city and stay to watch a game. Interested in thoughts on this!
 
-# Research Papers
+# Papers
+
+Here is a sampling of some of the term papers I have written. The quality may not be the best, but what's the point in writing something if nobody but you and your TA is going to read it? Check these out, maybe you'll learn something. ¯\\_(ツ)\_/¯
 
 ### AC Transit Flex
 - **Co-Authors**: Rene Gamino, Elizabeth Rajphackdy
 
+In Spring 2020, I took a class on "urban transportation". Our term paper assignment was to dive in-depth into a specific Bay Area transportation project, from describing its history to analyzing its efficacy. My group chose [AC Transit Flex](http://www.actransit.org/flex/) a relatively new demand-based public transit line that serves the less dense areas of Fremont and Newark. Unfortunately, I can't share the paper, but I just wanted to note how interesting it was reading the [internal reports](http://www.actransit.org/wp-content/uploads/board_memos/14-247b%20Line%20275.Flex%20Service.pdf) about it and listening to the recordings of Board of Directors meetings and all of the different arguments the planners and board members had. I have never actually ridden Flex, because COVID-19 hit before we got a chance to do so.
+
 ### Monaco 2070
 
+For my first city planning course, our term paper assignment was to pick a city and outlay a "vision" for how that city might look in 50 years. During one of our class discussions, a student mentioned they were considering Malta, and I decided to follow the microstate idea and picked Monaco. Monaco is unique in that it is very small, very rich, and its own country. Recently it is suffering from a severe lack of housing—even in the most expensive city in the world, demand is far exceeding supply. The city can't grow outwards (it either hits water or an international border), and growing upwards would mean losing it's charm, so I decided to base my vision around a radical underground housing plan. I reference other human underground spaces, such as in Montreal, and the informal underground housing market in China. While my plan is certainly quite unrealistic, this was quite a fun research exercise. I also got to improve my non-existent graphic design skills. [Please read!](assets/vision2070.pdf)
+
 ### Food Miles
+
+This might be the most out-of-place section here, which may be why it's one of the last. In Spring 2019, I took a class called "Food and the Environment", through which we learned all about the food supply chain, its history, and its consequences for the world. For my term paper, I chose to write about the concept of "food miles", which is a measure of how far your food travels from its seeding ground to your plate. The dominant narrative is that more food miles are bad, bad for the environment and bad for your health, but I offer a critique. Check it out [here](assets/foodmiles.pdf)!
+
+### Japan and Korea Historiography
+
+Everyone in the Letters & Science College at Berkeley has to take at least one writing class, unless you got a 5 on the AP Lit exam, which I did not. Because I don't really like studying fiction, I chose to take my writing class in the history department. My specific course was focused on the relationship between Japan and Korea from the late nineteenth century through the modern day. My favorite reading from the course was *Tenma*, the story of Genryu, a satirical character bouncing around pre-war Seoul. I found a copy [here](https://ceas.uchicago.edu/sites/ceas.uchicago.edu/files/uploads/Tenma.pdf), although it's not the same translation I read. Anyway, for my term paper for this class, I wrote about the colonial relationship between Japan and Korea, arguing that it had always been Japan's goal to culturally assimilate Korea into its growing empire. This was the first college term paper I ever wrote, so hopefully it's not too bad. [Read it here!](assets/historiography.pdf)
