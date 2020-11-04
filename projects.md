@@ -8,7 +8,11 @@ Below are a collection of some of my favorite projects I have worked on. They ma
 ### **SB-1120 Policy Brief**
 - **Co-Authors**: David Garcia, Julian Tucker
 
-Senate Bill 1120, at the time of this writing, is proposed legislation in California that would allow for single-family residential lots to be split into two equally-sized lots. New construction could be built on the split lot, thus increasing density in residential neighborhoods. The Terner Center here at Berkeley was working on a policy brief in support of SB-1120, and they called on me to run the numbers. Namely, I determined the total counts and percentages of parcels throughout the state to which this new law would apply, which are referenced throughout the report. I'm definitely proud to have published my first "formal" work! Read the [blog post](https://ternercenter.berkeley.edu/news/single-family-zoning-reform-SB-1120) and check out the full brief ([PDF](http://ternercenter.berkeley.edu/uploads/Single-Family_Zoning_Reform_An_Analysis_of_SB_1120.pdf)).
+Senate Bill 1120 was proposed legislation in California that would allow for single-family residential lots to be split into two equally-sized lots. New construction could be built on the split lot, thus increasing density in residential neighborhoods. The Terner Center here at Berkeley was working on a policy brief in support of SB-1120, and they called on me to run the numbers. Namely, I determined the total counts and percentages of parcels throughout the state to which this new law would apply, which are referenced throughout the report. I'm definitely proud to have published my first "formal" work! Read the [blog post](https://ternercenter.berkeley.edu/news/single-family-zoning-reform-SB-1120) and check out the full brief ([PDF](http://ternercenter.berkeley.edu/uploads/Single-Family_Zoning_Reform_An_Analysis_of_SB_1120.pdf)). Unfortunately, [the bill died](https://www.latimes.com/homeless-housing/story/2020-09-01/california-assembly-sb-1120-duplexes) during the final hours of the legislative session.
+
+### **Housing Research**
+
+Most of my research with Prof. Chapple has involved working on projects related to housing reform. In addition to the SB-1120 brief, I also worked on collecting and joining datasets for a model that determined the factors driving the construction of accessory dwelling units (ADUs). This involved working with large parcel-level datasets for the state of California, as well as other data sources like the ACS and LEHD survey. I also worked on this [map](https://www.aducalifornia.org/) displaying where in the state ADUs are built. Another project that I worked on was trying to determine the number of new units built in the state at the block level, again using parcel data.
 
 ### **Bike Lanes and Displacement**
 - **Co-Authors**: Khoa Đỗ, Rowan Pan
@@ -51,14 +55,22 @@ For a Time Series class I took in Spring 2020, our final project was to analyze 
 
 # Maps
 
+### **State Border Highway Crossings**
+
+I saw this [Reddit post](https://www.reddit.com/r/MapPorn/comments/j6my20/the_best_way_to_cross_each_us_state_border_oc/), categorizing each state border by the level of its highest-grade crossing (Interstate, U.S. route, local road, etc.). I noticed a number of issues in the comments, so I decided to make my own, hopefully better, version. Sadly, it didn't earn anywhere near enough karma as the original, perhaps because it was overshadowed by all of the election maps. Anyway, check it out [here](assets/maps/borders.png)!
+
+### **Streets**
+
+These maps didn't really require a whole lot of creativity, but they look cool, so I figured I would share them here. Apparently, the U.S. Census Bureau provides [freely available datasets](https://www2.census.gov/geo/tiger/TIGER2019/ROADS/) containing every road in the country. I downloaded these for a few regions and used them to create "maps" that could be used as wallpapers. So far I've done [Philadelphia](assets/maps/philadelphia.png) and [Berkeley](assets/maps/berkeley.png), let me know if you'd like me to do one for your area!
+
 ### **Sacramento County Housing Suitability**
 - **Co-Authors**: Bernard Gburek, Valery Yanez
 
-In Fall 2019, I took a class on Geographic Information Systems (GIS). For a final project, we conducted a suitability analysis to find the best place to construct and sell a home in Sacramento County. We collected geospatial data on all sorts of different features, ranging from recent home sale prices to transporation to flood plains. I even used a centerlines file to build a network to calculate travel times to and from important locations such as schools and Amtrak stations. The end product was a raster-based suitability model to determine the "optimal" place for new construction. See our final suitability map [here](assets/c188.png)!
+In Fall 2019, I took a class on Geographic Information Systems (GIS). For a final project, we conducted a suitability analysis to find the best place to construct and sell a home in Sacramento County. We collected geospatial data on all sorts of different features, ranging from recent home sale prices to transporation to flood plains. I even used a centerlines file to build a network to calculate travel times to and from important locations such as schools and Amtrak stations. The end product was a raster-based suitability model to determine the "optimal" place for new construction. See our final suitability map [here](assets/maps/c188.png)!
 
 ### **BART and Housing Prices**
 
-Freshman year, I took a class in the geography department simply titled "California." For a new resident, it was a nice primer on CA history, but for our final project, we had to make a [map](assets/50ac.pdf). Being the public transit fan that I am, I chose to look at BART and its relationship with housing prices. I plotted BART stations as points alongside block group polygons joined with American Community Survey data. This was the first map I ever finished, and I'm quite proud of it. My TA didn't like that I didn't label the stations and thought that the system map in the top-left corner was intended to fill space, so I assume she'd rather see text covering all of San Francisco and a big empty Marin Peninsula. This map is less than 3 years old, but note how out-of-date it already is! Thank you BART!
+Freshman year, I took a class in the geography department simply titled "California." For a new resident, it was a nice primer on CA history, but for our final project, we had to make a [map](assets/maps/50ac.pdf). Being the public transit fan that I am, I chose to look at BART and its relationship with housing prices. I plotted BART stations as points alongside block group polygons joined with American Community Survey data. This was the first map I ever finished, and I'm quite proud of it. My TA didn't like that I didn't label the stations and thought that the system map in the top-left corner was intended to fill space, so I assume she'd rather see text covering all of San Francisco and a big empty Marin Peninsula. This map is less than 3 years old, but note how out-of-date it already is! Thank you BART!
 
 # Linear Programming
 
