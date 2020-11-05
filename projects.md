@@ -61,7 +61,7 @@ I saw this [Reddit post](https://www.reddit.com/r/MapPorn/comments/j6my20/the_be
 
 ### **Streets**
 
-These maps didn't really require a whole lot of creativity, but they look cool, so I figured I would share them here. Apparently, the U.S. Census Bureau provides [freely available datasets](https://www2.census.gov/geo/tiger/TIGER2019/ROADS/) containing every road in the country. I downloaded these for a few regions and used them to create "maps" that could be used as wallpapers. So far I've done [Philadelphia](assets/maps/philadelphia.png) and [Berkeley](assets/maps/berkeley.png), let me know if you'd like me to do one for your area!
+These maps didn't really require a whole lot of creativity, but they look cool, so I figured I would share them here. Apparently, the U.S. Census Bureau provides [freely available datasets](https://www2.census.gov/geo/tiger/TIGER2019/ROADS/) containing every road in the country. I downloaded these for a few regions and used them to create "maps" that could be used as wallpapers. So far I've done [Philadelphia](assets/maps/philly.png) and [Berkeley](assets/maps/berkeley.png), let me know if you'd like me to do one for your area!
 
 ### **Sacramento County Housing Suitability**
 - **Co-Authors**: Bernard Gburek, Valery Yanez
