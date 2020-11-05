@@ -27,7 +27,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/isaac.jpg
 # 100-200 characters recommended
-greeting_text: I'm a current senior at UC Berkeley, majoring in Statistics, and minoring in City Planning and Data Science!
+greeting_text: Hey there! I'm a current senior at UC Berkeley, majoring in Statistics, and minoring in City Planning and Data Science!
 # show blog post excerpts on blog page
 show_excerpts: false
 excerpt_word_count: 70
