@@ -2,7 +2,7 @@
 ---
 See below for my various work and club experience!
 
-# Data 100
+# Teaching Data 100
 Data 100 is an upper-divison data science course that "explores key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making."
 - I am currently an undergraduate student instructor (uGSI), having started in [Summer 2020](http://www.ds100.org/su20/). I lead discussion sections, assist in reviewing and releasing assignments, write and grade exams, as well as help students in remote video office hours and through our online forum. Check out my anonymous student evaluations from the summer [here](assets/eval-su20.pdf).
 - In [Spring 2020](http://www.ds100.org/sp20/), I worked as a tutor, which involved grading homework and helping students in office hours.
