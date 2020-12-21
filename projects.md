@@ -46,6 +46,12 @@ The first project I worked on with SAGB was a consulting project with the Golden
 
 Of course highlights are popular in any sport, but even moreso in soccer. The time zone differences and the sheer quantity of matches lead to a large market for extended highlights, where full matches are condensed down to 10-15 minutes. Creating these highlight packages takes a long time—you have to have watched the match, pinpointed the worthy moments, and then manually sliced your match recording into the different clips and smashed them all back together. To make life easier, I wrote a Python script that automatically creates highlights videos using match events from the [hidden ESPN API](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b). See one of the resulting videos [here](https://streamable.com/ck02rs)!
 
+# Presentations
+
+### **Graph Distances in the Data-Stream Model**
+
+Fall 2020, I took a graduate-level class titled "Algorithms for Data Science." Our big project was to present on a published paper in the field. Check it out [here](https://www.youtube.com/watch?v=5qIfIXuYnso)!
+
 # Modelling
 
 ### **Stock Price Analysis**
