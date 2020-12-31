@@ -2,9 +2,11 @@
 title: Sports
 ---
 
+
 ### **San Francisco Giants**
 - **Team**: Josh Asuncion, Frank Bruni, Kyle Kishimoto, Tyler Vanderley
 
+![](https://content.sportslogos.net/logos/54/74/full/cpqj6up5bvgpoedg5fwsk20ve.png){: .image-right height="97px" width="181px"}
 This was the first project I led as a member of [SAGB](https://sportsanalytics.berkeley.edu/)! My team and I worked with Michael Gries of the San Francisco Giants, who tasked us with presenting baseball swing data collected with [Blast](https://blastmotion.com/). We were given data in JSON format on hundreds of swings for different minor league players, containing metrics such as "on-plane efficiency" and "attack angle." Our final deliverable was a portfolio of visualizations representing each of the different metrics. We concluded this project by presenting to Giants' front office executives at their spring training facility in Scottsdale, Arizona!
 
 ### **u/cbbBot**
@@ -16,8 +18,11 @@ Since release, it has undergone a number of rewrites as I have learned more and 
 ### **Golden State Warriors**
 - **Team**: Grant Hurdle, Ari Pickar, Jason Shan, Daniel Waldman
 
+![](https://content.sportslogos.net/logos/6/235/full/qhhir6fj8zp30f33s7sfb4yw0.png){: .image-right height="181px" width="148px"}
 The first project I worked on with SAGB was a consulting project with the Golden State Warriors, where our job was to try to project college basketball players to the NBA. The goal was to find players that may be undervalued—the type of player the Warriors might draft with their second round pick. We worked on this in Spring 2018, and our model was really high on [Kendrick Nunn](https://www.basketball-reference.com/players/n/nunnke01.html). I was a freshman, so I wasn't too involved in the technical details of the model, but I scraped all of the box score and season statistics data from College Basketball Reference, which we used as inputs to our model.
 
 ### **Soccer Highlights**
 
-Of course highlights are popular in any sport, but even moreso in soccer. The time zone differences and the sheer quantity of matches lead to a large market for extended highlights, where full matches are condensed down to 10-15 minutes. Creating these highlight packages takes a long time—you have to have watched the match, pinpointed the worthy moments, and then manually sliced your match recording into the different clips and smashed them all back together. To make life easier, I wrote a Python script that automatically creates highlights videos using match events from the [hidden ESPN API](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b). See one of the resulting videos [here](https://streamable.com/ck02rs)!
+Of course highlights are popular in any sport, but even moreso in soccer. The time zone differences and the sheer quantity of matches lead to a large market for extended highlights, where full matches are condensed down to 10-15 minutes. Creating these highlight packages takes a long time—you have to have watched the match, pinpointed the worthy moments, and then manually sliced your match recording into the different clips and smashed them all back together. To make life easier, I wrote a Python script that automatically creates highlights videos using match events from the [hidden ESPN API](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b). See one of the resulting videos below:
+
+<p align="center"><iframe src="https://streamable.com/e/ck02rs?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe></p>
