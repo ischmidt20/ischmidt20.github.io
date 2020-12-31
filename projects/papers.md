@@ -4,7 +4,6 @@ title: Class Papers
 
 Here is a sampling of some of the term papers I have written. The quality may not be the best, but what's the point in writing something if nobody but you and your TA is going to read it? Check these out, maybe you'll learn something. ¯\\_(ツ)\_/¯
 
-![](http://www.actransit.org/wp-content/uploads/Flex_Logo_Small-e1471033258185.png){: .image-right height="72px" width="200px"}
 ### **AC Transit Flex**
 - **Co-Authors**: Rene Gamino, Elizabeth Rajphackdy
 
