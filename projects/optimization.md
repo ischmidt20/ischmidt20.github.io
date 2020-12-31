@@ -1,6 +1,8 @@
 ---
 ---
 
+# Optimization
+
 ### **Supply Chain Management**
 ![](/assets/162_graph.png){: .image-right height="440px" width="340px"}
 - **Co-Authors**: Yulie Park, Christian Simeon, Yifan Xia

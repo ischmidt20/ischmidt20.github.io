@@ -1,6 +1,8 @@
 ---
 ---
 
+# Maps
+
 ### **State Border Highway Crossings**
 
 I saw this [Reddit post](https://www.reddit.com/r/MapPorn/comments/j6my20/the_best_way_to_cross_each_us_state_border_oc/), categorizing each state border by the level of its highest-grade crossing (Interstate, U.S. route, local road, etc.). I noticed a number of issues in the comments, so I decided to make my own, hopefully better, version. Sadly, it didn't earn anywhere near enough karma as the original, perhaps because it was overshadowed by all of the election maps.

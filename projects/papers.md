@@ -1,6 +1,8 @@
 ---
 ---
 
+# Class Papers
+
 Here is a sampling of some of the term papers I have written. The quality may not be the best, but what's the point in writing something if nobody but you and your TA is going to read it? Check these out, maybe you'll learn something. ¯\\_(ツ)\_/¯
 
 ### **AC Transit Flex**

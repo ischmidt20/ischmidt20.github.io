@@ -1,6 +1,8 @@
 ---
 ---
 
+# Modelling
+
 ### **Stock Price Analysis**
 - **Co-Authors**: Holly Cheek, Justin Han, Leonard Yang
 
