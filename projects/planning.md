@@ -1,7 +1,6 @@
 ---
+title: City-Planning x Data Science
 ---
-
-# City-Planning x Data Science
 
 ### **SB-1120 Policy Brief**
 - **Co-Authors**: David Garcia, Julian Tucker

@@ -1,7 +1,6 @@
 ---
+title: Sports
 ---
-
-# Sports
 
 ### **San Francisco Giants**
 - **Team**: Josh Asuncion, Frank Bruni, Kyle Kishimoto, Tyler Vanderley

@@ -1,7 +1,6 @@
 ---
+title: Presentations
 ---
-
-# Presentations
 
 ### **Graph Distances in the Data-Stream Model**
 
