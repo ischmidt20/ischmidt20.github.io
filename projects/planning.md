@@ -15,10 +15,13 @@ Most of my research with Prof. Chapple has involved working on projects related 
 
 
 ### **Bike Lanes and Displacement**
-![](/assets/bikes_carto.png){: .image-right height="250px" width="250px"}
+![](/assets/bikes_carto.png){: .image-right height="255px" width="255px"}
 - **Co-Authors**: Khoa Đỗ, Rowan Pan
 
+
 For a class assignment, my group and I looked at the relationship between the existence of bike lanes and urban displacement, as measured by the [Urban Displacement Project](https://www.urbandisplacement.org/). I collected bike lane shapefiles from various city open data portals, which I then used to calculate the total length of bike lanes per census tract. My groupmates then used that information to look at potential associations with the typologies created by UDP. We then structured our results as a blog post, which you can read [here](https://www.ocf.berkeley.edu/~ischmidt/2020/cp-101-assignment-3/).
+
+
 
 ### **BART and Accessibility**
 - **Co-Author**: Rowan Pan

@@ -69,9 +69,16 @@ h1 {
 
 .image-right {
   display: block;
-  margin-left: auto;
+  margin-left: 35px;
   margin-right: auto;
   float: right;
+}
+
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: 35px;
+  float: left;
 }
 
 table.wide {
