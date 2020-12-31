@@ -4,6 +4,7 @@ title: Class Papers
 
 Here is a sampling of some of the term papers I have written. The quality may not be the best, but what's the point in writing something if nobody but you and your TA is going to read it? Check these out, maybe you'll learn something. ¯\\_(ツ)\_/¯
 
+![](http://www.actransit.org/wp-content/uploads/Flex_Logo_Small-e1471033258185.png){: .image-right height="72px" width="200px"}
 ### **AC Transit Flex**
 - **Co-Authors**: Rene Gamino, Elizabeth Rajphackdy
 
@@ -11,6 +12,7 @@ In Spring 2020, I took a class on "urban transportation". Our term paper assignm
 
 ### **Monaco 2070**
 
+![](https://cdn.britannica.com/50/2750-004-AEE825F0/Flag-Monaco.jpg){: .image-right height="125px" width="145px"}
 For my first city planning course, our term paper assignment was to pick a city and outlay a "vision" for how that city might look in 50 years. During one of our class discussions, a student mentioned they were considering Malta, and I decided to follow the microstate idea and picked Monaco. Monaco is unique in that it is very small, very rich, and its own country. Recently it is suffering from a severe lack of housing—even in the most expensive city in the world, demand is far exceeding supply. The city can't grow outwards (it either hits water or an international border), and growing upwards would mean losing it's charm, so I decided to base my vision around a radical underground housing plan. I reference other human underground spaces, such as in Montreal, and the informal underground housing market in China. While my plan is certainly quite unrealistic, this was quite a fun research exercise. I also got to improve my non-existent graphic design skills. [Please read!](/assets/vision2070.pdf)
 
 ### **Food Miles**
