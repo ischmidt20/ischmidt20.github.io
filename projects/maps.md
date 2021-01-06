@@ -27,4 +27,4 @@ In Fall 2019, I took a class on Geographic Information Systems (GIS). For a fina
 
 Freshman year, I took a class in the geography department simply titled "California," for which we had to make a map as our final project. Being the public transit fan that I am, I chose to look at BART and its relationship with housing prices. I plotted BART stations as points alongside block group polygons joined with American Community Survey data. This was the first map I ever finished, and I'm quite proud of it. My TA didn't like that I didn't label the stations and thought that the system map in the top-left corner was intended to fill space, so I assume she'd rather see text covering all of San Francisco and a big empty Marin Peninsula. This map is less than 3 years old, but note how out-of-date it already is! Thank you BART!
 
-![](/assets/maps/50ac.png){: .center-image height="425px" width="550px"}
+![](/assets/maps/50ac.png){: .center-image height="420px" width="560px"}
