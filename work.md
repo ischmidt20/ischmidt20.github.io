@@ -5,6 +5,9 @@ See below for my various work and club experience!
 # Teaching Data 100
 Data 100 is an upper-divison data science course that "explores key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making."
 - I am currently an undergraduate student instructor (uGSI), having started in [Summer 2020](http://www.ds100.org/su20/). I lead discussion sections, assist in reviewing and releasing assignments, write and grade exams, as well as help students in remote video office hours and through our online forum. Check out my anonymous student evaluations from the [summer](assets/evals/su20.pdf) and [fall](assets/evals/fa20.pdf).
+
+In the Spring 2021 semester, I recorded videos that walked students through the weekly lab assignment. Check them out [here](https://www.youtube.com/playlist?list=PLhu_CxYhhE8e0xQSqbEKV4kS-BnreoLqO)!
+
 - In [Spring 2020](http://www.ds100.org/sp20/), I worked as a tutor, which involved grading homework and helping students in office hours.
 - In Fall 2018 and Fall 2019, I worked as an academic intern for two other classes—[CS 61A](https://inst.eecs.berkeley.edu/~cs61a/sp18/), then [Data 8](http://data8.org/fa19). An academic intern helps out GSIs in labs and office hours, and is considered the first rung on the teaching ladder.
 
