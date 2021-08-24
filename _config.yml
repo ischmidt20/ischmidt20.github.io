@@ -9,7 +9,7 @@
 
 # for header and meta tags
 title: Isaac Schmidt
-description: UC Berkeley Class of 2021
+description: UC Berkeley MA Class of 2022
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -27,7 +27,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/isaac.jpg
 # 100-200 characters recommended
-greeting_text: Hey there! I'm an incoming graduate student at UC Berkeley in the Statistics MA program. I just completed my undergraduate degree at Cal, earning a Bachelor's in Statistics, with minors in City Planning and Data Science.
+greeting_text: Hey there! I'm a current graduate student at UC Berkeley in the Statistics MA program. I just completed my undergraduate degree at Cal, earning a Bachelor's in Statistics, with minors in City Planning and Data Science.
 # show blog post excerpts on blog page
 show_excerpts: false
 excerpt_word_count: 70
