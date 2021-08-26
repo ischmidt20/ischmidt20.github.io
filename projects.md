@@ -11,7 +11,7 @@ Below are a collection of some of my favorite projects I have worked on. They ma
 
 ## - Sports
   - [San Francisco Giants](./projects/sports#san-francisco-giants)
-  - [u/cbbBot](./projects/sports#u-cbbbot)
+  - [u/cbbBot](./projects/sports#ucbbbot)
   - [Golden State Warriors](./projects/sports#golden-state-warriors)
   - [Soccer Highlights](./projects/sports#soccer-highlights)
 
