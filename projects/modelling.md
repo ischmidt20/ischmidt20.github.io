@@ -2,6 +2,10 @@
 title: Modelling
 ---
 
+### **Clustering Colors**
+
+In this [paper](assets/clustering.pdf), I perform k-medoids clustering on the colors of college basketball teams. I was inspired to do this after learning about k-medoids clustering in the Algorithms for Data Science course I took in Fall 2020. It was a fun exercise in LaTeX and machine learning software packages. Check it out!
+
 ### **Stock Price Analysis**
 - **Co-Authors**: Holly Cheek, Justin Han, Leonard Yang
 
