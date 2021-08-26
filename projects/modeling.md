@@ -1,5 +1,5 @@
 ---
-title: Modelling
+title: Modeling
 ---
 
 ### **Clustering Colors**
