@@ -25,4 +25,4 @@ The first project I worked on with SAGB was a consulting project with the Golden
 
 Of course highlights are popular in any sport, but even moreso in soccer. The time zone differences and the sheer quantity of matches lead to a large market for extended highlights, where full matches are condensed down to 10-15 minutes. Creating these highlight packages takes a long time—you have to have watched the match, pinpointed the worthy moments, and then manually sliced your match recording into the different clips and smashed them all back together. To make life easier, I wrote a Python script that automatically creates highlights videos using match events from the [hidden ESPN API](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b). See one of the resulting videos below:
 
-<p align="center"><iframe src="https://streamable.com/e/ck02rs?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe src="https://streamable.com/e/j8m43e?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe></p>
