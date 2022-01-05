@@ -1,5 +1,5 @@
 ---
-title: City-Planning x Data Science
+title: City Planning x Data Science
 ---
 
 ### **SB-1120 Policy Brief**

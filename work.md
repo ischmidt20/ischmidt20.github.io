@@ -4,11 +4,15 @@ See below for my various work and club experience!
 
 # Teaching
 
+## Data 102
+
+In Spring 2022, I will be a GSI for Data 102, a course that "develops the probabilistic foundations of inference in data science."
+
 ## Stat 375
 
-Stat 375 is a new pedagogy course that is offered to first-time (u)GSIs for statistics and data science courses. I lead a section of about 25 undergraduates, during which we discuss teaching practices and work through practical activities. I highly enjoy relaying my experiences as an uGSI to help foster the next cohort of teachers.
+Stat 375 is a new pedagogy course that is offered to first-time (u)GSIs for statistics and data science courses. In Fall 2021, I led a section of about 25 undergraduates, during which we discussed teaching practices and worked through practical activities. I highly enjoyed relaying my experiences as an uGSI to help foster the next cohort of teachers.
 
-In addition to leading the section, I grade homework, and assist Professor Andrew Bray in lesson planning for the course, as this is its first offering.
+In addition to leading the section, I graded homework and assisted Professor Andrew Bray in lesson planning for the course, as this is its first offering. You can check out my evaluations [here](assets/evals/fa21.pdf).
 
 ## Data 100
 
@@ -40,7 +44,7 @@ In Fall 2018 and Fall 2019, I worked as an academic intern for two other classes
 [Sports Analytics Group at Berkeley](https://sportsanalytics.berkeley.edu/) is a student-run club that seeks to prepare members for a career in the sports industry. I served as Vice President and head of the Projects Division, where students work on analytics-based consulting projects or their own independent research. My current responsibilities include recruiting new members to the club, overseeing the different individual projects, and reaching out to sports industry professionals to build connections. Prior to becoming VP, I led a project team working with the San Francisco Giants, and worked on a few other student teams—see [projects](/projects).
 
 # Research
-- Starting in Summer 2020, I am a research assistant with Berkeley's [Center for Community Innovation](https://communityinnovation.berkeley.edu/), under the supervision of [Dr. Karen Chapple](http://karenchapple.com/). So far, I helped build a model to determine the factors affecting the construction of Accessory Dwelling Units (ADUs) in California. I also provided query results to the [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/) to present in a policy brief, for which I was fortunate enough to be listed as a co-author. I've also helped out with wrangling large, propietary datasets, such as Zillow's ZTRAX data on property transactions, and Infogroup's consumer database. See [projects](/projects) for more information.
+- Starting in Summer 2020, I am a research assistant with Berkeley's [Center for Community Innovation](https://communityinnovation.berkeley.edu/), under the supervision of [Dr. Karen Chapple](http://karenchapple.com/). So far, I helped build a model to determine the factors affecting the construction of Accessory Dwelling Units (ADUs) in California. I also provided query results to the [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/) to present in a policy brief, for which I was fortunate enough to be listed as a co-author. I've also helped out with wrangling large, proprietary datasets, such as Zillow's ZTRAX data on property transactions, and Infogroup's consumer database. In Fall 2021, I worked with the [California Department of Housing and Community Development](https://hcd.ca.gov/) to perform quality control on the data the department receives from the hundreds of jurisdictions in California. See [projects](/projects) for more information.
 - In Spring 2020, I assisted PhD candidate Teddy Forscher of the [Transportation Sustainability Research Center](https://tsrc.berkeley.edu/) with his research project on e-commerce shopping habits, the environment, and COVID-19. I cleaned and re-structured the results of his survey pre-test to guide the creation of his final survey, and then did the same with the final survey results to make the data easier to analyze. *"You're the best data wrangler I know." - Teddy*
 
 # Other Work
