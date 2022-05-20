@@ -20,6 +20,7 @@ Below are a collection of some of my favorite projects I have worked on. They ma
   - [Graph Distances in the Data-Stream Model](./projects/papers#graph-distances-in-the-data-stream-model)
 
 ## - Modeling
+  - [Capstone Project](./projects/modeling#capstone-project)
   - [Clustering Colors](./projects/modeling#clustering-colors)
   - [Stock Price Analysis](./projects/modeling#stock-price-analysis)
 
