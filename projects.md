@@ -34,7 +34,7 @@ Below are a collection of some of my favorite projects I have worked on. They ma
   - [Problems I'm Interested In, But Haven't Solved](./projects/optimization#problems-im-interested-in-but-havent-solved)
 
 ## - Class Papers
-  - [AC Transit Flex](./projects/papers#ac-transit-flex)
-  - [Monaco 2070](./projects/papers#monaco-2070)
-  - [Food Miles](./projects/papers#food-miles)
-  - [Japan and Korea Historiography](./projects/papers#japan-and-korea-historiography)
+  - [AC Transit Flex](./projects/essays#ac-transit-flex)
+  - [Monaco 2070](./projects/essays#monaco-2070)
+  - [Food Miles](./projects/essays#food-miles)
+  - [Japan and Korea Historiography](./projects/essays#japan-and-korea-historiography)
