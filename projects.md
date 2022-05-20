@@ -15,8 +15,9 @@ Below are a collection of some of my favorite projects I have worked on. They ma
   - [Golden State Warriors](./projects/sports#golden-state-warriors)
   - [Soccer Highlights](./projects/sports#soccer-highlights)
 
-## - Presentations
-  - [Graph Distances in the Data-Stream Model](./projects/presentations#graph-distances-in-the-data-stream-model)
+## - Paper Replications
+  - [The Origins of Ethnolinguistic Diversity](./projects/papers#the-origins-of-ethnolinguistic-diversity)
+  - [Graph Distances in the Data-Stream Model](./projects/papers#graph-distances-in-the-data-stream-model)
 
 ## - Modeling
   - [Clustering Colors](./projects/modeling#clustering-colors)
