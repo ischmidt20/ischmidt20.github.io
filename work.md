@@ -6,7 +6,7 @@ See below for my various work and club experience!
 
 ## Data 102
 
-In Spring 2022, I was a GSI for Data 102, a course that "develops the probabilistic foundations of inference in data science." In addition to teaching discussion section, lab section, and holding office hours, I took on the role of head GSI. This involved being the main point of contact for students in the course, leading weekly staff meetings, and generally overseeing course logistics, such as the operation of midterm exams and student accommodations.
+In Spring 2022, I was a GSI for Data 102, a course that "develops the probabilistic foundations of inference in data science." In addition to teaching discussion section, lab section, and holding office hours, I took on the role of head GSI. This involved being the main point of contact for students in the course, leading weekly staff meetings, and generally overseeing course logistics, such as the operation of midterm exams and student accommodations. See my evaluations [here](assets/evals/sp22.pdf).
 
 ## Stat 375
 
