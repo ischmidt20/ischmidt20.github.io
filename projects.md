@@ -10,6 +10,7 @@ Below are a collection of some of my favorite projects I have worked on. They ma
   - [BART and Accessibility](./projects/planning#bart-and-accessibility)
 
 ## - Sports
+  - [Soccer Win Probabilities](./projects/sports#soccer-win-probabilities)
   - [San Francisco Giants](./projects/sports#san-francisco-giants)
   - [u/cbbBot](./projects/sports#ucbbbot)
   - [Golden State Warriors](./projects/sports#golden-state-warriors)

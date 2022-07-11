@@ -2,6 +2,12 @@
 title: Sports
 ---
 
+![](/assets/matches_prob.png){: .image-right height="250px" width="300px"}
+
+### **Soccer Win Probabilities**
+
+Since first being introduced to data science, I had wanted to create a soccer within-match win probability metric, similar to what has existed for a while in baseball. Given the score, the minute, and where the ball is on the field, what is the probability either team wins, or it ends in a draw? I was finally able to get my hands on sufficient data, and I created a model for my final project of a grad-level machine learning course I took in Fall 2021. I used random forests trained on one season's worth of matches from across the top five leagues to estimate win/draw/probabilities based on a few features tracked throughout the match. Read my paper [here](/assets/soccer.pdf)!
+
 ### **San Francisco Giants**
 - **Team**: Josh Asuncion, Frank Bruni, Kyle Kishimoto, Tyler Vanderley
 
