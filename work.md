@@ -2,11 +2,17 @@
 ---
 See below for my various work and club experience!
 
+# CNA Corporation
+
+I am currently an Associate Research Analyst in the Data Science Division at [CNA Corporation](https://www.cna.org/), a position I have held since June 2022. At CNA, I work on a number of concurrent projects in support of the United States Navy, primarily relating to maintenance and force readiness. My work spans across all phases of the data science lifecycle, including collecting data, data wrangling, dashboarding, statistical hypothesis testing, implementing machine learning algorithms, and presenting results to senior leaders.
+
 # Teaching
 
 ## Data 102
 
 In Spring 2022, I was a GSI for Data 102, a course that "develops the probabilistic foundations of inference in data science." In addition to teaching discussion section, lab section, and holding office hours, I took on the role of head GSI. This involved being the main point of contact for students in the course, leading weekly staff meetings, and generally overseeing course logistics, such as the operation of midterm exams and student accommodations. See my evaluations [here](assets/evals/sp22.pdf).
+
+For my role this semester, I also received an [Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-recipients-2022-2023/).
 
 ## Stat 375
 
