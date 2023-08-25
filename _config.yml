@@ -23,7 +23,7 @@ nav-links:
   - name: Projects
     url: /projects
     external: false
-  - name: Posts
+  - name: Blog
     url: /blog
 
 # for the homepage image + big text next to it
