@@ -8,6 +8,7 @@ Below are a collection of some of my favorite projects I have worked on. They ma
   - [Housing Research](./projects/planning#housing-research)
   - [Bike Lanes and Displacement](./projects/planning#bike-lanes-and-displacement)
   - [BART and Accessibility](./projects/planning#bart-and-accessibility)
+  - [Monaco 2070](./projects/planning#monaco-2070)
 
 ## - Sports
   - [Soccer Win Probabilities](./projects/sports#soccer-win-probabilities)
@@ -35,9 +36,3 @@ Below are a collection of some of my favorite projects I have worked on. They ma
   - [Supply Chain Management](./projects/optimization#supply-chain-management)
   - [Circles of Suck](./projects/optimization#circles-of-suck)
   - [Problems I'm Interested In, But Haven't Solved](./projects/optimization#problems-im-interested-in-but-havent-solved)
-
-## - Class Papers
-  - [AC Transit Flex](./projects/essays#ac-transit-flex)
-  - [Monaco 2070](./projects/essays#monaco-2070)
-  - [Food Miles](./projects/essays#food-miles)
-  - [Japan and Korea Historiography](./projects/essays#japan-and-korea-historiography)

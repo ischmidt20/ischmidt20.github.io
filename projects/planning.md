@@ -27,3 +27,10 @@ For a class assignment, my group and I looked at the relationship between the ex
 - **Co-Author**: Rowan Pan
 
 For another assignment, my partner and I investigated factors affecting accessibility to BART, particularly looking at the location of the Warm Springs and Fremont stations. I built my own network based on a county street centerlines shapefile, which I used to calculate distance and walking times to BART for various locations. We also used data from the American Community Survey to try to determine the makeup of the neighborhoods these stations serve. Read our report [here](https://www.ocf.berkeley.edu/~ischmidt/2020/cp-101-assignment-2/)!
+
+
+
+### **Monaco 2070**
+
+![](https://cdn.britannica.com/50/2750-004-AEE825F0/Flag-Monaco.jpg){: .image-right height="125px" width="145px"}
+For my first city planning course, our term paper assignment was to pick a city and outlay a "vision" for how that city might look in 50 years. During one of our class discussions, a student mentioned they were considering Malta, and I decided to follow the microstate idea and picked Monaco. Monaco is unique in that it is very small, very rich, and its own country. Recently it is suffering from a severe lack of housing—even in the most expensive city in the world, demand is far exceeding supply. The city can't grow outwards (it either hits water or an international border), and growing upwards would mean losing it's charm, so I decided to base my vision around a radical underground housing plan. I reference other human underground spaces, such as in Montreal, and the informal underground housing market in China. While my plan is certainly quite unrealistic, this was quite a fun research exercise. I also got to improve my non-existent graphic design skills. No data science here, but still [please read!](/assets/vision2070.pdf)
