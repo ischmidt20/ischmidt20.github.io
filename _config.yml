@@ -23,6 +23,8 @@ nav-links:
   - name: Projects
     url: /projects
     external: false
+  - name: Posts
+    url: /blog
 
 # for the homepage image + big text next to it
 greeting_image: /assets/isaac.jpg
