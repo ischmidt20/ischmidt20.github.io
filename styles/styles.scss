@@ -81,9 +81,17 @@ h1 {
   float: left;
 }
 
+table {
+  color: #444;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 table.wide {
   width: 100%;
-  max-width: 100%;
 }
 
 .global-title {
