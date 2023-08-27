@@ -60,7 +60,7 @@ defaults:
 collections:
   posts:
     output: true
-    permalink: /blog/:title
+    permalink: /blog/:year/:month/:day/:title
 
 permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
 sass:
