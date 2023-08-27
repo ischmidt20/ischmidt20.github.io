@@ -35,9 +35,9 @@ show_excerpts: false
 excerpt_word_count: 70
 
 # long date: April 20, 1969
-long_date: false
+long_date: true
 # short date: Apr ‘69
-short_date: true
+short_date: false
 
 #
 #
@@ -56,6 +56,12 @@ defaults:
       type: posts
     values:
       is_post: true
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
+
 permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
 sass:
   style: compressed # compress the CSS file generated from the SCSS styles file
