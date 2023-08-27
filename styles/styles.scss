@@ -83,6 +83,7 @@ h1 {
 
 table {
   color: #444;
+  border-collapse: collapse;
 }
 
 table.center {
@@ -92,6 +93,16 @@ table.center {
 
 table.wide {
   width: 100%;
+}
+
+th {
+  border:1px solid #000;
+  padding: 7px;
+}
+
+td {
+  border:1px solid #000;
+  padding: 7px;
 }
 
 .global-title {
