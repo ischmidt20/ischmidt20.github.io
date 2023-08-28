@@ -21,7 +21,7 @@ Most of my research with Prof. Chapple has involved working on projects related 
 ![](/assets/162_graph.png){: .image-right height="440px" width="340px"}
 - **Co-Authors**: Yulie Park, Christian Simeon, Yifan Xia
 
-For our final project in a linear programming class, we were told to optimize the supply chain for a fictional sugar cane company. Sugar cane was bought from different plantations and shipped to different refineries, who in turn shipped molasses to different customers. There were a number of parameters in our model, including the different shipping costs from location to location, the varying productivities and capacities of the different refineries, and maximum supply and minimum demand. Our decision variables were the amount of sugar cane to buy from each supplier and where to ship it, and how much molasses to ship from each refinery to each customer. I wrote the [AMPL code](/assets/162_ampl.mod.txt) to formulate and solve the model, and drew up a nice diagram displaying our optimal results.
+For our final project in a linear programming class, we were told to optimize the supply chain for a fictional sugar cane company. Sugar cane was bought from different plantations and shipped to different refineries, who in turn shipped molasses to different customers. There were a number of fixed parameters in our model, including the different shipping costs from location to location, the varying productivities and capacities of the different refineries, and maximum supply and minimum demand. Our decision variables were the amount of sugar cane to buy from each supplier and where to ship it, and how much molasses to ship from each refinery to each customer. I wrote the [AMPL code](/assets/162_ampl.mod.txt) to formulate and solve the model, and drew up a nice diagram displaying our optimal results.
 
 
 ### **San Francisco Giants**
@@ -34,7 +34,7 @@ This was the first project I led as a member of [SAGB](https://sportsanalytics.b
 ### **Sacramento County Housing Suitability**
 - **Co-Authors**: Bernard Gburek, Valery Yanez
 
-In Fall 2019, I took a class on Geographic Information Systems (GIS). For a final project, we conducted a suitability analysis to find the best place to construct and sell a home in Sacramento County. We collected geospatial data on all sorts of different features, ranging from recent home sale prices to transporation to flood plains. I even used a centerlines file to build a network to calculate travel times to and from important locations such as schools and Amtrak stations. The end product was a raster-based suitability model to determine the "optimal" place for new construction.
+In Fall 2019, I took a class on Geographic Information Systems (GIS). For a final project, we conducted a suitability analysis to find the best place to construct and sell a home in Sacramento County. We collected geospatial data on all sorts of different features, ranging from recent home sale prices to transportation to flood plains. I even used a centerlines file to build a network to calculate travel times to and from important locations such as schools and Amtrak stations. The end product was a raster-based suitability model to determine the "optimal" place for new construction.
 
 
 ### **Golden State Warriors**
@@ -46,6 +46,6 @@ The first project I worked on with SAGB was a consulting project with the Golden
 
 ### **BART and Housing Prices**
 
-Freshman year, I took a class in the geography department simply titled "California," for which we had to make a map as our final project. Being the public transit fan that I am, I chose to look at BART and its relationship with housing prices. I plotted BART stations as points alongside block group polygons joined with American Community Survey data. This was the first map I ever finished, and I'm quite proud of it. My TA didn't like that I didn't label the stations and thought that the system map in the top-left corner was intended to fill space, so I assume she'd rather see text covering all of San Francisco and a big empty Marin Peninsula. This map is less than 3 years old, but note how out-of-date it already is! Thank you BART!
+Freshman year, I took a class in the geography department simply titled "California," for which we had to make a map as our final project. Being the public transit fan that I am, I chose to look at BART and its relationship with housing prices. I plotted BART stations as points alongside block group polygons joined with American Community Survey data. This was the first map I ever finished, and I'm quite proud of it. My TA didn't like that I didn't label the stations and thought that the system map in the top-left corner was intended to fill space, so I assume she'd rather see text covering all of San Francisco and a big empty Marin Peninsula. This map isn't that old, but note how out-of-date it is! Thank you BART!
 
 ![](/assets/maps/50ac.png){: .center-image height="420px" width="560px"}

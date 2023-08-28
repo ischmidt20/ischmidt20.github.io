@@ -4,7 +4,7 @@ See below for my various work and club experience!
 
 # CNA Corporation
 
-I am currently an Associate Research Analyst in the Data Science Division at [CNA Corporation](https://www.cna.org/), a position I have held since June 2022. At CNA, I work on a number of concurrent projects in support of the United States Navy, primarily relating to maintenance and force readiness. My work spans across all phases of the data science lifecycle, including collecting data, data wrangling, dashboarding, statistical hypothesis testing, implementing machine learning algorithms, and presenting results to senior leaders.
+I am currently an Associate Research Analyst in the Predictive Analytics team and the Data Science Division at [CNA Corporation](https://www.cna.org/), a position I have held since June 2022. At CNA, I work on a number of concurrent projects in support of the United States Navy, primarily relating to maintenance and force readiness. My work spans across all phases of the data science lifecycle, including collecting data, data wrangling, dashboarding, statistical hypothesis testing, implementing machine learning algorithms, and presenting results to senior Navy leaders.
 
 # Teaching
 
@@ -12,7 +12,7 @@ I am currently an Associate Research Analyst in the Data Science Division at [CN
 
 In Spring 2022, I was a GSI for Data 102, a course that "develops the probabilistic foundations of inference in data science." In addition to teaching discussion section, lab section, and holding office hours, I took on the role of head GSI. This involved being the main point of contact for students in the course, leading weekly staff meetings, and generally overseeing course logistics, such as the operation of midterm exams and student accommodations. See my evaluations [here](assets/evals/sp22.pdf).
 
-For my role this semester, I also received an [Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-recipients-2022-2023/).
+For my role this semester, I received an [Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-recipients-2022-2023/).
 
 ## Stat 375
 
@@ -52,7 +52,7 @@ In Fall 2018 and Fall 2019, I worked as an academic intern for two other classes
 
 # Research
 - Starting in Summer 2020, I was a research assistant with Berkeley's [Center for Community Innovation](https://communityinnovation.berkeley.edu/), under the supervision of [Dr. Karen Chapple](http://karenchapple.com/). I helped build a model to determine the factors affecting the construction of Accessory Dwelling Units (ADUs) in California. I also provided query results to the [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/) to present in a policy brief, for which I was fortunate enough to be listed as a co-author. I've also helped out with wrangling large, proprietary datasets, such as Zillow's ZTRAX data on property transactions, and Infogroup's consumer database. In Fall 2021, I worked with the [California Department of Housing and Community Development](https://hcd.ca.gov/) to perform quality control on the data the department receives from the hundreds of jurisdictions in California. Most recently, I worked on a team creating a measure of displacement in the Salt Lake City metropolitan area. See [projects](/projects) for more information.
-- In Spring 2020, I assisted PhD candidate Teddy Forscher of the [Transportation Sustainability Research Center](https://tsrc.berkeley.edu/) with his research project on e-commerce shopping habits, the environment, and COVID-19. I cleaned and re-structured the results of his survey pre-test to guide the creation of his final survey, and then did the same with the final survey results to make the data easier to analyze. *"You're the best data wrangler I know." - Teddy*
+- In Spring 2020, I assisted PhD candidate Teddy Forscher of the [Transportation Sustainability Research Center](https://tsrc.berkeley.edu/) with his research project on e-commerce shopping habits, the environment, and COVID-19. I cleaned and re-structured the results of his survey pre-test to guide the creation of his final survey, and then did the same with the final survey results to make the data easier to analyze. His paper, within which I was acknowledged, is available [here](https://doi.org/10.7922/G2DF6PJ7) *"You're the best data wrangler I know." - Teddy*
 
 # Other Work
 - I was a student assistant in the Facilities branch of UC Berkeley's Athletics Department. I prepared [Haas Pavilion](https://calbears.com/sports/2020/6/22/haas-pavilion.aspx) for games and practices by setting up and breaking down basketball hoops, volleyball nets, the scorers’ table, and other equipment. I trained new workers to do these tasks, both on-the-job and through instructional videos that I created. I was also a ballboy for a few Pac-12 volleyball games in 2019.
