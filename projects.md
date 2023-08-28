@@ -1,38 +1,32 @@
 ---
 ---
 
-Below are a collection of some of my favorite projects I have worked on. They may be born out of research, class assignments, formal extracurriculars, or pure personal interest. Click the links below for more information about each project!
+Below are a collection of some of my favorite projects I have worked on. They span a variety of topics including sports, city planning, geography, or whatever happened to be assigned. The first category contains projects for which some kind of "report" was produced and is available. The other two contain projects that do not meet that criteria, split into personal projects and work done for school or research.
 
-## - City Planning x Data Science
-  - [SB-1120 Policy Brief](./projects/planning#sb-1120-policy-brief)
-  - [Housing Research](./projects/planning#housing-research)
-  - [Bike Lanes and Displacement](./projects/planning#bike-lanes-and-displacement)
-  - [BART and Accessibility](./projects/planning#bart-and-accessibility)
-  - [Monaco 2070](./projects/planning#monaco-2070)
+## Full Reports
+  - [Capstone Project](./projects/full#capstone-project)
+  - [The Origins of Ethnolinguistic Diversity](./projects/full#the-origins-of-ethnolinguistic-diversity)
+  - [Soccer Win Probabilities](./projects/full#soccer-win-probabilities)    
+  - [Clustering Colors](./projects/full#clustering-colors)
+  - [SB-1120 Policy Brief](./projects/full#sb-1120-policy-brief)
+  - [Stock Price Analysis](./projects/full#stock-price-analysis)
+  - [Bike Lanes and Displacement](./projects/full#bike-lanes-and-displacement)
+  - [BART and Accessibility](./projects/full#bart-and-accessibility)
+  - [Monaco 2070](./projects/full#monaco-2070)
 
-## - Sports
-  - [Soccer Win Probabilities](./projects/sports#soccer-win-probabilities)
-  - [San Francisco Giants](./projects/sports#san-francisco-giants)
-  - [u/cbbBot](./projects/sports#ucbbbot)
-  - [Golden State Warriors](./projects/sports#golden-state-warriors)
-  - [Soccer Highlights](./projects/sports#soccer-highlights)
+## Personal Projects
+  - [State Border Highway Crossings](./projects/personal#state-border-highway-crossings)
+  - [Streets](./projects/personal#streets)
+  - [Soccer Highlights](./projects/personal#soccer-highlights)
+  - [Circles of Suck](./projects/personal#circles-of-suck)
+  - [u/cbbBot](./projects/personal#ucbbbot)
+  - [Problems I'm Interested In, But Haven't Solved](./projects/personal#problems-im-interested-in-but-havent-solved)
 
-## - Paper Replications
-  - [The Origins of Ethnolinguistic Diversity](./projects/papers#the-origins-of-ethnolinguistic-diversity)
-  - [Graph Distances in the Data-Stream Model](./projects/papers#graph-distances-in-the-data-stream-model)
-
-## - Modeling
-  - [Capstone Project](./projects/modeling#capstone-project)
-  - [Clustering Colors](./projects/modeling#clustering-colors)
-  - [Stock Price Analysis](./projects/modeling#stock-price-analysis)
-
-## - Maps
-  - [State Border Highway Crossings](./projects/maps#state-border-highway-crossings)
-  - [Streets](./projects/maps#streets)
-  - [Sacramento County Housing Suitability](./projects/maps#sacramento-county-housing-suitability)
-  - [BART and Housing Prices](./projects/maps#bart-and-housing-prices)
-
-## - Optimization
-  - [Supply Chain Management](./projects/optimization#supply-chain-management)
-  - [Circles of Suck](./projects/optimization#circles-of-suck)
-  - [Problems I'm Interested In, But Haven't Solved](./projects/optimization#problems-im-interested-in-but-havent-solved)
+## School and Research Projects
+  - [Graph Distances in the Data-Stream Model](./projects/school#graph-distances-in-the-data-stream-model)
+  - [Housing Research](./projects/school#housing-research)
+  - [Supply Chain Management](./projects/school#supply-chain-management)
+  - [San Francisco Giants](./projects/school#san-francisco-giants)
+  - [Sacramento County Housing Suitability](./projects/school#sacramento-county-housing-suitability)
+  - [Golden State Warriors](./projects/school#golden-state-warriors)
+  - [BART and Housing Prices](./projects/school#bart-and-housing-prices)
