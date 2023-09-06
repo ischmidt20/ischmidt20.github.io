@@ -41,7 +41,7 @@ The first question we needed to answer is how to categorically determine if a gi
 | ![](/assets/img/bikes-flowchart.png){: height="400px" width="300px"} |
 |:--:|
 | Flowchart for data processing in ArcMap |
-{: .table.right}
+{: .right}
 
 The next step was to determine the strength of the bike network within a tract. From municipal governments' and regional associations' open data portals, we we downloaded line vector shapefiles representing the existing bike facilities in each city. In most cases, the dataset was continuously kept up-to-date, with the most recent updates in February or March 2020, but the Bay Area dataset was dated to October 2018. The data was initially provided in the WGS84 projection, so the first thing we did was project each city's data into the appropriate state plane projection, to ensure more accurate calculations. For each dataset, we then used the Calculate Geometry tool in ArcMap to determine each lane's length in meters.
 
@@ -53,7 +53,7 @@ Each city's original data contained a "class" attribute of some sort, but we nee
 | 2 | Traditional bike lane, painted line separating bikes from vehicles |
 | 3 | Not a separated lane, only symbols and signs promoting bike traffic, such as "sharrows" |
 | 4 | Protected bike lane, separated from vehicles by a buffer or barrier, a.k.a. "cycle track" |
-{: .table.wide .table.border}
+{: .wide .border}
 
 The next step was to join this line data to the tract as a whole. We downloaded tract boundary TIGER/Line® shapefiles from the U.S. Census Bureau, for California, Colorado, Illinois, and New York, and again projected each into the appropriate state plane projection. We then used the Tabulate Intersection tool to determine what portion of each bike lane fell within each tract. To account for bike lanes along a tract boundary in real life, but which may not be purely coincident in their digitized representations, we included a small tolerance, so that if a bike lane was within 5 meters of a boundary in ArcMap, it would be considered as along that boundary and thus count for both tracts. For each city, the output was a table, where each row corresponded to a "lane-tract"—the specific portion of the bike lane that was in a given tract. Thus each lane could have multiple rows, as could each tract. Also included was the tract's FIPS ID, along with the bike lane section's length (in both meters and miles), its class, and the lane's unique ID.
 
@@ -81,7 +81,7 @@ Finally, whenever we build a model, especially in urban analytics, we are always
 
 #### San Francisco Bay Area
 
-![](/assets/img/bikes-sf.png){: .center-image height="466px" width="700px"}
+![](/assets/img/bikes-sf.png){: .image-center height="466px" width="700px"}
 
 We begin with San Francisco, the closest city to Berkeley of the four. San Francisco is the financial capital of the west coast and one of the most famous—or rather infamous—cities that showcases the splendor and squalor of the modern American city. Vivid juxtaposition of wealthy elites and the homeless living within blocks of each other provides the setting for which the Urban Displacement Project is done. The development of ride-sharing services, especially that of bicycles, is a big development so far. The setting of SF is a perfect place for conducting analysis of gentrification typology and bike lanes. In this table, we can see that in SF, long bike lanes are correlated with generally low risk and mild forms of gentrification. More advanced patterns of displacement, exclusion, and gentrification are in general associated with shorter bike lengths. This realization is the basis of our first model that bike lane length is an indicator of the likelihood a particular community is at risk of being displaced and gentrified in San Francisco. We will call this the "San Francisco Model" going forward.
 
@@ -93,7 +93,7 @@ A clearer image of displacement in the city of San Francisco can be seen in the 
 
 #### Chicago
 
-![](/assets/img/bikes-chicago.png){: .center-image height="450px" width="700px"}
+![](/assets/img/bikes-chicago.png){: .image-center height="450px" width="700px"}
 
 Ah, here we come to the "Windy City". Chicago is the midwestern city we will be examining next. This will be an interesting case study because as we know, Chicago is a major leader in the US in terms of statistics like homicide rates and violent crime, not particularly things a city wants to be associated with. Let us continue our analysis. Before we begin, we would like to point out that the terminology that is being used is slightly different than that of SF but the general idea is the same. The trend seems to have detracted from that of what we see in San Francisco. For one, the highest amount of exclusion taking place in Chicago is correlated with longer average bike lane lengths. Lower levels of gentrification like "Not Currently at Risk of Gentrification" and "Early Ongoing Gentrification" has the lowest average bike lane lengths. We will call this the "Chicago Model" going forward.
 
@@ -105,7 +105,7 @@ This poses as perplexing question: Is the model of Chicago or San Francisco more
 
 #### Denver
 
-![](/assets/img/bikes-denver.png){: .center-image height="454px" width="700px"}
+![](/assets/img/bikes-denver.png){: .image-center height="454px" width="700px"}
 
 The next city on our tour is Denver, Colorado. Although not as famous as its counterparts, Denver is a respectable city in its own right.
 
@@ -119,7 +119,7 @@ Hmm, does there exist an East-West divide in the United States in terms of gentr
 
 #### New York
 
-![](/assets/img/bikes-newyork.png){: .center-image height="451px" width="700px"}
+![](/assets/img/bikes-newyork.png){: .image-center height="451px" width="700px"}
 
 To act upon our suspicions, let us travel to the "Big Apple".
 

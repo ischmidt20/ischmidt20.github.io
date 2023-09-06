@@ -9,7 +9,7 @@ This page contains descriptions of some additional personal projects I have work
 
 I saw this [Reddit post](https://www.reddit.com/r/MapPorn/comments/j6my20/the_best_way_to_cross_each_us_state_border_oc/), categorizing each state border by the level of its highest-grade crossing (Interstate, U.S. route, local road, etc.). I noticed a number of issues in the comments, so I decided to make my own, hopefully better, version. Sadly, it didn't earn anywhere near enough karma as the original, perhaps because it was overshadowed by all of the election maps, as this was done in November 2020.
 
-![](/assets/maps/borders.png){: .center-image height="408px" width="528px"}
+![](/assets/maps/borders.png){: .image-center height="408px" width="528px"}
 
 
 ### **Streets**
@@ -18,7 +18,7 @@ These maps didn't really require a whole lot of creativity, but they look cool, 
 
 Philadelphia|Berkeley
 :-------------------------:|:-------------------------:
-![](/assets/maps/philly.png){: .center-image height="300" width="300"}  |  ![](/assets/maps/berkeley.png){: .center-image height="300px" width="300px"}
+![](/assets/maps/philly.png){: .image-center height="300" width="300"}  |  ![](/assets/maps/berkeley.png){: .image-center height="300px" width="300px"}
 {: .wide}
 
 
