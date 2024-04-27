@@ -4,7 +4,9 @@ See below for my various work and club experience!
 
 # CNA Corporation
 
-I am currently a Research Analyst in the Predictive Analytics team within the Data Science Division at [CNA Corporation](https://www.cna.org/), where I have been since June 2022. At CNA, I work on a number of concurrent projects in support of the United States Navy, primarily relating to maintenance and force readiness. My work spans across all phases of the data science lifecycle, including collecting data, data wrangling, dashboarding, statistical hypothesis testing, implementing machine learning algorithms, and presenting results to senior Navy leaders.
+I am currently a Research Analyst in the [Predictive Analytics program](https://www.cna.org/centers-and-divisions/cna/data-science/data-science-predictive-analytics) within the Data Science Division at [CNA Corporation](https://www.cna.org/), where I have been since June 2022. At CNA, I work on a number of concurrent projects in support of the United States Navy, primarily relating to maintenance and force readiness. My work spans across all phases of the data science lifecycle, including collecting data, data wrangling, dashboarding, statistical hypothesis testing, implementing machine learning algorithms, and presenting results to senior Navy leaders.
+
+Check [here](https://www.cna.org/about-us/research/case-studies/cna-accelerates-budgeting-from-months-to-minutes) for an example of a project I worked on, which won the FFRDC Research Communication Excellence Award. My work on this project included refactoring the Shiny app to better facilitate the introduction of additional features, and deploying the application to the Navy's cloud environment.
 
 # Teaching
 
