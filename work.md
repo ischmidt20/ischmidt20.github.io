@@ -4,7 +4,7 @@ See below for my various work and club experience!
 
 # CNA Corporation
 
-I am currently an Associate Research Analyst in the Predictive Analytics team and the Data Science Division at [CNA Corporation](https://www.cna.org/), a position I have held since June 2022. At CNA, I work on a number of concurrent projects in support of the United States Navy, primarily relating to maintenance and force readiness. My work spans across all phases of the data science lifecycle, including collecting data, data wrangling, dashboarding, statistical hypothesis testing, implementing machine learning algorithms, and presenting results to senior Navy leaders.
+I am currently a Research Analyst in the Predictive Analytics team within the Data Science Division at [CNA Corporation](https://www.cna.org/), where I have been since June 2022. At CNA, I work on a number of concurrent projects in support of the United States Navy, primarily relating to maintenance and force readiness. My work spans across all phases of the data science lifecycle, including collecting data, data wrangling, dashboarding, statistical hypothesis testing, implementing machine learning algorithms, and presenting results to senior Navy leaders.
 
 # Teaching
 
