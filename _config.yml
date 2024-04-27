@@ -29,7 +29,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/isaac.jpg
 # 100-200 characters recommended
-greeting_text: Hey there! I am currently an Associate Research Analyst at CNA Corporation in Arlington, VA. I hold a Master's degree in Statistics from UC Berkeley, as well as Bachelor's degree in Statistics from Cal, with minors in City Planning and Data Science.
+greeting_text: Hey there! I am currently a Research Analyst at CNA Corporation in Arlington, VA. I hold a Master's degree in Statistics from UC Berkeley, as well as Bachelor's degree in Statistics from Cal, with minors in City Planning and Data Science.
 # show blog post excerpts on blog page
 show_excerpts: false
 excerpt_word_count: 70
