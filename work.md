@@ -26,7 +26,7 @@ In addition to leading the section, I graded homework and assisted Professor And
 
 Data 100 is an upper-division data science course that "explores key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making."
 
-In [Summer 2021](https://www.ds100.org/su21/), I was acting instructor for the course, alongside [Raguvir Kunani](https://www.linkedin.com/in/rkunani/). I recorded four new lectures for the course, which are linked below:
+In [Summer 2021](https://ds100.org/su21/), I was acting instructor for the course, alongside [Raguvir Kunani](https://www.linkedin.com/in/rkunani/). I recorded four new lectures for the course, which are linked below:
 - [Lecture 16](https://ds100.org/su21/lecture/lec16/) - Bias and Variance
 - [Lecture 17](https://ds100.org/su21/lecture/lec17/) - Cross-Validation and Regularization
 - [Lecture 24](https://ds100.org/su21/lecture/lec24/) - Clustering I
@@ -35,7 +35,7 @@ In [Summer 2021](https://www.ds100.org/su21/), I was acting instructor for the c
 
 My evaluations from Summer 2021 are [here](assets/evals/su21.pdf).
 
-Before becoming instructor, I was an undergraduate student instructor (uGSI) for the three semesters—[Summer 2020](https://www.ds100.org/su20/), [Fall 2020](https://www.ds100.org/fa20/), and [Spring 2021](https://www.ds100.org/sp21/). I led discussion sections, assisted in reviewing and releasing assignments, wrote and graded exams, as well as helped students in remote video office hours and through our online forum. Additionally, in the Spring 2021 semester, I recorded videos that walked students through the weekly lab assignment, which you can see [here](https://www.youtube.com/playlist?list=PLhu_CxYhhE8e0xQSqbEKV4kS-BnreoLqO). Also check out my anonymous student evaluations from the [summer](assets/evals/su20.pdf), [fall](assets/evals/fa20.pdf), and [spring](assets/evals/sp21.pdf).
+Before becoming instructor, I was an undergraduate student instructor (uGSI) for the three semesters—[Summer 2020](https://ds100.org/su20/), [Fall 2020](https://ds100.org/fa20/), and [Spring 2021](https://ds100.org/sp21/). I led discussion sections, assisted in reviewing and releasing assignments, wrote and graded exams, as well as helped students in remote video office hours and through our online forum. Additionally, in the Spring 2021 semester, I recorded videos that walked students through the weekly lab assignment, which you can see [here](https://www.youtube.com/playlist?list=PLhu_CxYhhE8e0xQSqbEKV4kS-BnreoLqO). Also check out my anonymous student evaluations from the [summer](assets/evals/su20.pdf), [fall](assets/evals/fa20.pdf), and [spring](assets/evals/sp21.pdf).
 
 From a student on Piazza:
 
@@ -45,7 +45,7 @@ From a student on Piazza:
 >
 > Honestly, these walkthrough videos have contributed a LOT to my understanding of the material. You are a wonderful teacher!
 
-In [Spring 2020](https://www.ds100.org/sp20/), I worked as a tutor, which involved grading homework and helping students in office hours.
+In [Spring 2020](https://ds100.org/sp20/), I worked as a tutor, which involved grading homework and helping students in office hours.
 
 In Fall 2018 and Fall 2019, I worked as an academic intern for two other classes—[CS 61A](https://inst.eecs.berkeley.edu/~cs61a/fa18/), then [Data 8](https://data8.org/fa19). An academic intern helps out GSIs in labs and office hours, and is considered the first rung on the teaching ladder.
 
